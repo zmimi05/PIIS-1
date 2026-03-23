@@ -8,6 +8,7 @@ namespace PIIS_1
     {
         public void TestMetoda()
         {
+            int a = 5;
         }
 
     }
